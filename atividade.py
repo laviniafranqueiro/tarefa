@@ -1,3 +1,4 @@
+pip install streamlit pandas
 import streamlit as st
 import pandas as pd 
 st.title('tarefa do Josir')
